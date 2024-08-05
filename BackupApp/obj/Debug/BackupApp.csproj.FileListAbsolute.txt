@@ -1,0 +1,10 @@
+C:\Users\llama\OneDrive\Desktop\Desktop Applications\BackupApp\bin\Debug\BackupApp.exe.config
+C:\Users\llama\OneDrive\Desktop\Desktop Applications\BackupApp\bin\Debug\BackupApp.exe
+C:\Users\llama\OneDrive\Desktop\Desktop Applications\BackupApp\bin\Debug\BackupApp.pdb
+C:\Users\llama\OneDrive\Desktop\Desktop Applications\BackupApp\obj\Debug\BackupApp.csproj.AssemblyReference.cache
+C:\Users\llama\OneDrive\Desktop\Desktop Applications\BackupApp\obj\Debug\BackupApp.Form1.resources
+C:\Users\llama\OneDrive\Desktop\Desktop Applications\BackupApp\obj\Debug\BackupApp.Properties.Resources.resources
+C:\Users\llama\OneDrive\Desktop\Desktop Applications\BackupApp\obj\Debug\BackupApp.csproj.GenerateResource.cache
+C:\Users\llama\OneDrive\Desktop\Desktop Applications\BackupApp\obj\Debug\BackupApp.csproj.CoreCompileInputs.cache
+C:\Users\llama\OneDrive\Desktop\Desktop Applications\BackupApp\obj\Debug\BackupApp.exe
+C:\Users\llama\OneDrive\Desktop\Desktop Applications\BackupApp\obj\Debug\BackupApp.pdb
